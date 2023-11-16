@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "category": "Curry",
+        "recipesCount": 25,
+        "photoUrl": "https://veenaazmanov.com/wp-content/uploads/2012/12/Easy-Chicken-Curry-Recipe-with-6-ingredients1.jpg"
+    },
+    {
+        "id": 2,
+        "category": "Biryani",
+        "recipesCount": 15,
+        "photoUrl": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg"
+    },
+    {
+        "id": 3,
+        "category": "Dal",
+        "recipesCount": 20,
+        "photoUrl": "https://www.daringgourmet.com/wp-content/uploads/2013/06/Masoor-Dal-4-square-scaled.jpg"
+    },
+    {
+        "id": 4,
+        "category": "Paratha",
+        "recipesCount": 10,
+        "photoUrl": "https://www.thedeliciouscrescent.com/wp-content/uploads/2020/06/Paratha-Square.jpg"
+    },
+    {
+        "id": 5,
+        "category": "Samosa",
+        "recipesCount": 5,
+        "photoUrl": "https://static.toiimg.com/thumb/msid-82177117,imgsize-236784,width-900,height-1200,resizemode-6/82177117.jpg"
+    }
+]

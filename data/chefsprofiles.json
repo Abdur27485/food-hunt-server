@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "chefName": "Sanjeev Kapoor",
+      "chefPictureUrl": "https://images.newindianexpress.com/uploads/user/ckeditor_images/article/2021/7/19/ZSRTHSRTH.jpg",
+      "yearsOfExperiance": 33,
+      "numberOfRecipes": 250,
+      "likes": 45000,
+      "shortBio": "Gordon Ramsay is a British chef, restaurateur, television personality and writer. He is known for his highly acclaimed restaurants and cookbooks as well as his profanity and fiery temper on TV shows like Hell's Kitchen and MasterChef[^1^][2]."
+    },
+    {
+      "id": 2,
+      "chefName": "Vikas Khanna",
+      "chefPictureUrl": "https://filmfare.wwmindia.com/thumb/content/2020/may/vikaskhannaeid41590390700.jpg?width=1200&height=900",
+      "yearsOfExperiance": 22,
+      "numberOfRecipes": 150,
+      "likes": 30000,
+      "shortBio": "Nigella Lawson is a British food writer, journalist and broadcaster. She is the author of several bestselling cookbooks and the host of popular cooking shows such as Nigella Bites and Nigella Express. She is known for her relaxed and indulgent approach to food."
+    },
+    {
+      "id": 3,
+      "chefName": "Vineet Bhatia",
+      "chefPictureUrl": "https://etimg.etb2bimg.com/photo/79640852.cms",
+      "yearsOfExperiance": 25,
+      "numberOfRecipes": 200,
+      "likes": 35000,
+      "shortBio": "Jamie Oliver is a British chef, restaurateur, campaigner and media personality. He rose to fame with his TV show The Naked Chef and has since launched several successful restaurant chains and social initiatives. He is also a bestselling author and an advocate for healthy eating."
+    },
+    {
+      "id": 4,
+      "chefName": "Ranveer Brar",
+      "chefPictureUrl": "https://www.forbesindia.com/media/celeblist2019/big/096_Ranveer%20Brar.jpg",
+      "yearsOfExperiance": 20,
+      "numberOfRecipes": 180,
+      "likes": 28000,
+      "shortBio": "Rachael Ray is an American television personality, cookbook author and businesswoman. She is best known for her daytime talk show Rachael Ray and her Food Network series 30 Minute Meals. She also has her own magazine, cookware line and pet food brand."
+    },
+    {
+      "id": 5,
+      "chefName": "Vicky Ratnani",
+      "chefPictureUrl": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/8atrv3wn1octho7s_1618654182.jpeg",
+      "yearsOfExperiance": 45,
+      "numberOfRecipes": 300,
+      "likes": 50000,
+      "shortBio": "Wolfgang Puck is an Austrian-American chef, restaurateur and entrepreneur. He is the founder of the Wolfgang Puck Companies, which include a range of fine dining, casual and catering businesses. He is also a celebrity chef who has appeared on numerous TV shows and events."
+    },
+    {
+      "id": 6,
+      "chefName": "Kunal Kapur",
+      "chefPictureUrl": "https://assets.telegraphindia.com/telegraph/BHP_5875.jpg",
+      "yearsOfExperiance": 18,
+      "numberOfRecipes": 140,
+      "likes": 26000,
+      "shortBio": "Ina Garten is an American cookbook author and former White House nuclear policy analyst. She is the host of the Emmy Award-winning cooking show Barefoot Contessa on Food Network. She is also known for her simple yet elegant recipes that use fresh ingredients."
+    }
+  ]

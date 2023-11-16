@@ -1,0 +1,397 @@
+[
+    {
+        "id": 1,
+        "recipes": [
+            {
+                "id": 1,
+                "recipeName": "Butter Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Butter",
+                    "Onion",
+                    "Tomato",
+                    "Cream",
+                    "Ginger",
+                    "Garlic",
+                    "Garam Masala",
+                    "Salt",
+                    "Red Chili Powder"
+                ],
+                "cookingMethod": "Marinate the chicken with ginger, garlic, salt and red chili powder. Heat butter in a pan and fry the onion until golden. Add tomato and cook until soft. Blend the mixture into a smooth sauce. Add cream and garam masala and bring to a boil. Add the chicken and simmer until cooked. Serve hot with rice or naan bread.",
+                "rating": 4.5,
+                "recipeImage": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken--750x750.jpg"
+            },
+            {
+                "id": 2,
+                "recipeName": "Palak Paneer",
+                "ingredients": [
+                    "Paneer",
+                    "Spinach",
+                    "Onion",
+                    "Tomato",
+                    "Ginger",
+                    "Garlic",
+                    "Cumin Seeds",
+                    "Turmeric Powder",
+                    "Coriander Powder",
+                    "Salt"
+                ],
+                "cookingMethod": "Blanch the spinach and puree it. Cut the paneer into cubes and fry them until golden. Heat oil in a pan and splutter cumin seeds. Add onion, ginger and garlic and saute until soft. Add tomato, turmeric, coriander and salt and cook until mushy. Add the spinach puree and bring to a boil. Add the paneer cubes and simmer for 10 minutes. Serve hot with roti or rice.",
+                "rating": 4,
+                "recipeImage": "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured.jpg"
+            },
+            {
+                "id": 3,
+                "recipeName": "Samosa",
+                "ingredients": [
+                    "Potato",
+                    "Peas",
+                    "Flour",
+                    "Oil",
+                    "Cumin Seeds",
+                    "Fennel Seeds",
+                    "Coriander Seeds",
+                    "Green Chili",
+                    "Ginger",
+                    "Salt"
+                ],
+                "cookingMethod": "Boil the potatoes and mash them. Heat oil in a pan and add cumin, fennel and coriander seeds. Add green chili, ginger, peas and salt and cook for 5 minutes. Add the mashed potatoes and mix well. Make a dough with flour, oil and water. Divide the dough into small balls and roll them into thin circles. Cut each circle into half and fold it into a cone shape. Fill the cone with the potato mixture and seal the edges. Deep fry the samosas until golden and crisp. Serve hot with chutney or ketchup.",
+                "rating": 4.5,
+                "recipeImage": "https://static.toiimg.com/thumb/61050397.cms?imgsize=246859&width=800&height=800"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "recipes": [
+            {
+                "id": 4,
+                "recipeName": "Chicken Biryani",
+                "ingredients": [
+                    "Chicken",
+                    "Rice",
+                    "Oil",
+                    "Onion",
+                    "Ginger",
+                    "Garlic",
+                    "Yogurt",
+                    "Bay Leaf",
+                    "Cinnamon",
+                    "Cardamom",
+                    "Cloves",
+                    "Turmeric Powder",
+                    "Red Chili Powder",
+                    "Salt",
+                    "Mint Leaves",
+                    "Cilantro"
+                ],
+                "cookingMethod": "Marinate the chicken with yogurt, ginger, garlic, turmeric, red chili powder and salt for an hour. Wash and soak the rice for 20 minutes. Heat oil in a large pot and fry the onion until brown. Remove half of the onion and set aside. Add bay leaf, cinnamon, cardamom and cloves to the remaining onion in the pot and stir for a minute. Add the marinated chicken and cook for 15 minutes on medium heat. Drain the rice and add it to the pot along with water as required. Sprinkle mint leaves, cilantro and fried onion on top of the rice. Cover the pot with a tight lid and cook on low heat for 20 minutes or until the rice is done. Fluff with a fork and serve hot with raita or salad.",
+                "rating": 4,
+                "recipeImage": "https://static.toiimg.com/thumb/53096628.cms?width=1200&height=900"
+            },
+            {
+                "id": 5,
+                "recipeName": "Dal Makhani",
+                "ingredients": [
+                    "Black Lentils",
+                    "Red Kidney Beans",
+                    "Butter",
+                    "Cream",
+                    "Onion",
+                    "Ginger",
+                    "Garlic",
+                    "Cumin Seeds",
+                    "Asafoetida",
+                    "Garam Masala",
+                    "Red Chili Powder",
+                    "Salt"
+                ],
+                "cookingMethod": "Wash and soak the lentils and beans overnight. Drain and pressure cook them with water, salt and turmeric for 15 minutes or until soft. Mash some of the lentils with a ladle to make a creamy texture. Heat butter in a pan and add cumin seeds and asafoetida. When they crackle, add onion, ginger and garlic and saute until golden brown. Add garam masala, red chili powder and salt and cook for 2 minutes. Add the cooked lentils and beans along with some water if needed to adjust the consistency. Simmer for 10 minutes on low heat. Add cream and mix well. Serve hot with naan bread or rice.",
+                "rating": 4,
+                "recipeImage": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/dal-makhani-recipe.jpg"
+            },
+            {
+                "id": 6,
+                "recipeName": "Kheer",
+                "ingredients": [
+                    "Milk",
+                    "Rice",
+                    "Sugar",
+                    "Cardamom",
+                    "Saffron",
+                    "Nuts"
+                ],
+                "cookingMethod": "Wash and soak the rice for 10 minutes. Drain and add it to a heavy bottomed pot along with milk. Bring to a boil and then reduce the heat to low. Cook stirring occasionally until the rice is soft and the milk is thickened. Add sugar and cardamom and mix well. Sprinkle saffron and nuts on top. Serve hot or cold.",
+                "rating": 4,
+                "recipeImage": "https://www.indianveggiedelight.com/wp-content/uploads/2017/08/rice-kheer-instant-pot-featured-image.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "recipes": [
+            {
+                "id": 7,
+                "recipeName": "Dosa",
+                "ingredients": [
+                    "Rice",
+                    "Lentils",
+                    "Oil",
+                    "Fenugreek Seeds",
+                    "Baking Soda",
+                    "Salt"
+                ],
+                "cookingMethod": "Wash and soak the rice, lentils and fenugreek seeds overnight. Drain and grind them into a smooth batter with some water. Add baking soda and salt and mix well. Let the batter ferment for 8 hours or overnight in a warm place. Heat a non-stick pan over medium-high heat. Grease it lightly with oil. Pour a ladleful of batter on the pan and spread it thinly in a circular motion. Drizzle some oil around the edges of the dosa. Cook until crisp and golden on one side. Flip it over and cook for another minute. Fold it into half or roll it up. Serve hot with sambar or chutney.",
+                "rating": 4,
+                "recipeImage": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FSeries%2F2020-07-South-Indian-Chritra-Agrawal%2FDosa%20Making%20-%20How%20to%20steps%2FShot_21_-_Finished_dosas"
+            },
+            {
+                "id": 8,
+                "recipeName": "Tandoori Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Lemon Juice",
+                    "Ginger",
+                    "Garlic",
+                    "Garam Masala",
+                    "Red Chili Powder",
+                    "Turmeric Powder",
+                    "Salt",
+                    "Oil"
+                ],
+                "cookingMethod": "Make small cuts on the chicken pieces. Mix yogurt, lemon juice, ginger, garlic, garam masala, red chili powder, turmeric powder and salt in a bowl. Coat the chicken pieces with the marinade and refrigerate for at least 4 hours or overnight. Preheat oven to 200°C. Arrange the chicken pieces on a baking tray and brush with some oil. Bake for 25 minutes or until cooked and charred. Serve hot with onion rings and mint chutney.",
+                "rating": 4,
+                "recipeImage": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg"
+            },
+            {
+                "id": 9,
+                "recipeName": "Aloo Gobi",
+                "ingredients": [
+                    "Potato",
+                    "Cauliflower",
+                    "Oil",
+                    "Cumin Seeds",
+                    "Mustard Seeds",
+                    "Curry Leaves",
+                    "Ginger",
+                    "Garlic",
+                    "Green Chili",
+                    "Turmeric Powder",
+                    "Coriander Powder",
+                    "Salt",
+                    "Cilantro"
+                ],
+                "cookingMethod": "Cut the potato and cauliflower into small florets. Heat oil in a pan and add cumin seeds, mustard seeds and curry leaves. When they crackle, add ginger, garlic and green chili and saute for a minute. Add turmeric powder, coriander powder and salt and mix well. Add the potato and cauliflower florets and toss to coat them with the spices. Cover the pan with a lid and cook on low heat for 15 minutes or until the vegetables are tender. Sprinkle cilantro on top and serve hot with roti or rice.",
+                "rating": 4,
+                "recipeImage": "https://www.chilipeppermadness.com/wp-content/uploads/2022/04/Aloo-Gobi-SQ.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "recipes": [
+            {
+                "id": 10,
+                "recipeName": "Naan",
+                "ingredients": [
+                    "Flour",
+                    "Yeast",
+                    "Sugar",
+                    "Warm Water",
+                    "Yogurt",
+                    "Baking Powder",
+                    "Baking Soda",
+                    "Salt",
+                    "Butter",
+                    "Nigella Seeds"
+                ],
+                "cookingMethod": "Dissolve yeast and sugar in warm water and let it sit for 10 minutes or until frothy. In a large bowl, mix flour, yogurt, baking powder, baking soda and salt. Add the yeast mixture and knead into a soft dough. Place the dough in a greased bowl and cover with a damp cloth. Let it rise for an hour or until doubled in size. Punch down the dough and divide it into equal portions. Roll out each portion into an oval shape. Sprinkle some nigella seeds on top and press lightly with your fingers. Heat a skillet over high heat and cook the naan on both sides until puffed and browned. Brush with melted butter and serve hot.",
+                "rating": 4,
+                "recipeImage": "https://rasamalaysia.com/wp-content/uploads/2019/03/naan-thumb.jpg"
+            },
+            {
+                "id": 11,
+                "recipeName": "Gulab Jamun",
+                "ingredients": [
+                    "Milk Powder",
+                    "All Purpose Flour",
+                    "Baking Powder",
+                    "Ghee",
+                    "Milk",
+                    "Sugar",
+                    "Water",
+                    "Cardamom",
+                    "Saffron",
+                    "Pistachios"
+                ],
+                "cookingMethod": "In a bowl, mix milk powder, all purpose flour and baking powder. Add ghee and rub with your fingers until crumbly. Add milk gradually and knead into a smooth dough. Make small balls from the dough and keep them covered with a cloth. In a large pot, bring sugar, water, cardamom and saffron to a boil. Simmer until slightly thickened. Heat oil in a deep pan over medium heat. Fry the balls in batches until golden brown. Drain and transfer them to the sugar syrup. Let them soak for an hour or more. Garnish with pistachios and serve warm or cold.",
+                "rating": 4,
+                "recipeImage": "https://www.spiceupthecurry.com/wp-content/uploads/2020/08/gulab-jamun-recipe-2-500x500.jpg"
+            },
+            {
+                "id": 12,
+                "recipeName": "Kadhi Pakora",
+                "ingredients": [
+                    "Besan",
+                    "Buttermilk",
+                    "Ginger",
+                    "Garlic",
+                    "Cumin Seeds",
+                    "Fenugreek Seeds",
+                    "Asafoetida",
+                    "Turmeric Powder",
+                    "Red Chili Powder",
+                    "Salt",
+                    "Onion",
+                    "Baking Soda",
+                    "Oil",
+                    "Cilantro"
+                ],
+                "cookingMethod": "In a bowl, whisk besan, buttermilk, ginger, garlic, turmeric powder, red chili powder and salt until smooth and lump-free. Heat oil in a large pot and add cumin seeds, fenugreek seeds and asafoetida. When they crackle, add the besan-buttermilk mixture and bring to a boil. Reduce the heat and simmer for 20 minutes or until thickened. Stir occasionally to prevent sticking. In another bowl, mix besan, onion, baking soda, salt and water to make a thick batter. Heat oil in a deep pan over medium-high heat. Drop spoonfuls of batter into the hot oil and fry until golden and crisp. Drain and add them to the kadhi. Simmer for another 10 minutes or until the pakoras are soft. Sprinkle cilantro on top and serve hot with rice or roti.",
+                "rating": 4,
+                "recipeImage": "https://i0.wp.com/fatimacooks.net/wp-content/uploads/2022/02/kadhi-pakora-scaled-e1664060322800.jpeg?resize=720%2C720&ssl=1"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "recipes": [
+            {
+                "id": 13,
+                "recipeName": "Chana Masala",
+                "ingredients": [
+                    "Chickpeas",
+                    "Oil",
+                    "Onion",
+                    "Ginger",
+                    "Garlic",
+                    "Tomato",
+                    "Cumin Seeds",
+                    "Coriander Seeds",
+                    "Garam Masala",
+                    "Red Chili Powder",
+                    "Turmeric Powder",
+                    "Salt",
+                    "Lemon Juice",
+                    "Cilantro"
+                ],
+                "cookingMethod": "Rinse and soak the chickpeas overnight. Drain and pressure cook them with water and salt for 15 minutes or until soft. Heat oil in a pan and add cumin seeds and coriander seeds. When they crackle, add onion, ginger and garlic and saute until golden brown. Add tomato, garam masala, red chili powder, turmeric powder and salt and cook until mushy. Add the cooked chickpeas along with some water if needed to adjust the consistency. Simmer for 10 minutes on low heat. Add lemon juice and cilantro and mix well. Serve hot with roti or rice.",
+                "rating": 4,
+                "recipeImage": "https://www.indianveggiedelight.com/wp-content/uploads/2019/05/chana-masala-recipe-featured.jpg"
+            },
+            {
+                "id": 14,
+                "recipeName": "Paneer Tikka Masala",
+                "ingredients": [
+                    "Paneer",
+                    "Yogurt",
+                    "Ginger",
+                    "Garlic",
+                    "Garam Masala",
+                    "Red Chili Powder",
+                    "Turmeric Powder",
+                    "Salt",
+                    "Oil",
+                    "Onion",
+                    "Tomato",
+                    "Cashew Nuts",
+                    "Cream",
+                    "Fenugreek Leaves"
+                ],
+                "cookingMethod": "Cut the paneer into cubes and marinate them with yogurt, ginger, garlic, garam masala, red chili powder, turmeric powder and salt for an hour. Heat oil in a grill pan and grill the paneer cubes until charred on all sides. Set aside. Heat oil in another pan and fry the onion until golden. Add tomato and cashew nuts and cook until soft. Blend the mixture into a smooth paste. Heat oil in a pot and add the paste. Bring to a boil and add cream, fenugreek leaves and salt. Add the grilled paneer cubes and simmer for 10 minutes on low heat. Serve hot with naan bread or rice.",
+                "rating": 4,
+                "recipeImage": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/paneer-tikka-masala.jpg"
+            },
+            {
+                "id": 15,
+                "recipeName": "Pav Bhaji",
+                "ingredients": [
+                    "Pav",
+                    "Butter",
+                    "Potato",
+                    "Cauliflower",
+                    "Carrot",
+                    "Green Peas",
+                    "Onion",
+                    "Ginger",
+                    "Garlic",
+                    "Tomato",
+                    "Pav Bhaji Masala",
+                    "Red Chili Powder",
+                    "Lemon Juice",
+                    "Salt",
+                    "Cilantro"
+                ],
+                "cookingMethod": "Boil the potato, cauliflower, carrot and green peas until soft. Mash them with a potato masher and set aside. Heat butter in a large pan and add onion, ginger and garlic. Saute until soft. Add tomato, pav bhaji masala, red chili powder and salt and cook until mushy. Add the mashed vegetables and some water if needed to adjust the consistency. Simmer for 15 minutes on low heat. Add lemon juice and cilantro and mix well. Heat butter in another pan and toast the pav on both sides until golden. Serve the pav with the bhaji topped with some butter and onion.",
+                "rating": 4,
+                "recipeImage": "https://assets.bonappetit.com/photos/63cb14735125107865c0fe8f/1:1/w_2560%2Cc_limit/012023-pav-bhaji-lede.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "recipes": [
+            {
+                "id": 16,
+                "recipeName": "Kulfi",
+                "ingredients": [
+                    "Milk",
+                    "Sugar",
+                    "Cornstarch",
+                    "Cardamom",
+                    "Saffron",
+                    "Pistachios"
+                ],
+                "cookingMethod": "In a heavy bottomed pot, bring milk to a boil and then reduce the heat to low. Simmer for an hour or until reduced to half stirring occasionally to prevent sticking. Add sugar and cornstarch dissolved in some water and cook for another 10 minutes or until thickened. Add cardamom and saffron and mix well. Let it cool completely. Stir in pistachios and pour the mixture into kulfi molds or small cups. Freeze for 6 hours or overnight until set. Unmold or peel off the cups and serve cold.",
+                "rating": 4,
+                "recipeImage": "https://recipes.timesofindia.com/thumb/84786580.cms?width=1200&height=900"
+            },
+            {
+                "id": 17,
+                "recipeName": "Idli Sambar",
+                "ingredients": [
+                    "Rice",
+                    "Lentils",
+                    "Fenugreek Seeds",
+                    "Baking Soda",
+                    "Salt",
+                    "Ghee",
+                    "Cashew Nuts",
+                    "Cumin Seeds",
+                    "Asafoetida",
+                    "Onion",
+                    "Ginger",
+                    "Garlic",
+                    "Tomato",
+                    "Tamarind Paste",
+                    "Sambar Powder"
+                ],
+                "cookingMethod": "Wash and soak the rice, lentils and fenugreek seeds overnight. Drain and grind them into a smooth batter with some water. Add baking soda and salt and mix well. Let the batter ferment for 8 hours or overnight in a warm place. Grease idli molds with some ghee and fill them with the batter. Steam them for 10 minutes or until done. Heat ghee in a small pan and fry cashew nuts until golden. Set aside. Heat oil in a large pot and add cumin seeds and asafoetida. When they crackle, add onion, ginger and garlic and saute until soft. Add tomato, tamarind paste, sambar powder, salt and water as required to make a thin gravy. Bring to a boil and simmer for 15 minutes on low heat. Serve the idlis with sambar topped with cashew nuts.",
+                "rating": 4,
+                "recipeImage": "https://vaya.in/recipes/wp-content/uploads/2018/02/Idli-and-Sambar-1.jpg"
+            },
+            {
+                "id": 18,
+                "recipeName": "Dahi Vada",
+                "ingredients": [
+                    "Lentils",
+                    "Ginger",
+                    "Green Chili",
+                    "Baking Soda",
+                    "Salt",
+                    "Oil",
+                    "Curd",
+                    "Sugar",
+                    "Cumin Powder",
+                    "Red Chili Powder",
+                    "Tamarind Chutney",
+                    "Mint Chutney"
+                ],
+                "cookingMethod": "Wash and soak the lentils overnight. Drain and grind them into a smooth batter with ginger, green chili, baking soda and salt. Heat oil in a deep pan over medium-high heat. Drop spoonfuls of batter into the hot oil and fry until golden and crisp. Drain and soak them in water for 10 minutes. Squeeze out the excess water and arrange them on a serving plate. Whisk curd with sugar and salt and pour over the vadas. Sprinkle cumin powder and red chili powder on top. Drizzle tamarind chutney and mint chutney over the vadas. Serve chilled or at room temperature.",
+                "rating": 4,
+                "recipeImage": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Soft-Dahi-Vada-Recipe.jpg"
+            }
+        ]
+    }
+]
